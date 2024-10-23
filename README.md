@@ -5,7 +5,7 @@
 - Aspiring Data Scientist and ML engineer
 
 📊 Data Projects
-- LOADING....
+- Google BellaBeats Case Study (https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
 
 💻 Machine Learning
 - LOADING...
