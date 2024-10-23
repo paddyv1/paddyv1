@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+👩‍🎓 About
+- Computer Science Graduate
+- Aspiring Data Scientist and ML engineer
+
+📊 Data Projects
+- LOADING....
+
+💻 Machine Learning
+- LOADING...
 <!--
 **paddyv1/paddyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
