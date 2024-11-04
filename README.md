@@ -8,7 +8,7 @@
 - [Google BellaBeats Case Study](https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
 
 💻 Machine Learning
-- LOADING...
+- [Machine Learning Gesture Control](https://github.com/paddyv1/MachineLearning-HandGesture)
 <!--
 **paddyv1/paddyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
