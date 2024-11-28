@@ -6,7 +6,7 @@
 
 📊 Data Projects
 - [Google BellaBeats Case Study](https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
-
+- [Amazon SQL Business Case Study](https://github.com/paddyv1/AmazonSQL)
 💻 Machine Learning
 - [Student Score Prediction with AWS Pipeline](https://github.com/paddyv1/StudentScorePrediction)
 - [Machine Learning Gesture Control](https://github.com/paddyv1/MachineLearning-HandGesture)
