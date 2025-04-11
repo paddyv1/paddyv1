@@ -2,7 +2,6 @@
 
 👩‍🎓 About
 - Computer Science Graduate
-- Aspiring Data Scientist and ML engineer
 
 📊 Data Projects
 - [Google BellaBeats Case Study](https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
