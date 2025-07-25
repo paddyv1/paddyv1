@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👩‍🎓 About
-- Computer Science Graduate
+- SDET
 
 📊 Data Projects
 - [Google BellaBeats Case Study](https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
