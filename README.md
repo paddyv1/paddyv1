@@ -1,15 +1,11 @@
 ## Hi there 👋
 
 👩‍🎓 About
-- SDET
+- Currently working as a QA Engineer
 
-📊 Data Projects
-- [Google BellaBeats Case Study](https://github.com/paddyv1/Google-Data-Analytics-Bellabeat-Case-Study)
-- [Amazon SQL Business Case Study](https://github.com/paddyv1/AmazonSQL)
+- 🔭 I’m currently working on:
+    -Url Shortner
 
-💻 Machine Learning
-- [Student Score Prediction with AWS Pipeline](https://github.com/paddyv1/StudentScorePrediction)
-- [Machine Learning Gesture Control](https://github.com/paddyv1/MachineLearning-HandGesture)
 <!--
 **paddyv1/paddyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
