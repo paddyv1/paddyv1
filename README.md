@@ -6,7 +6,10 @@
 ### 🔭 I’m currently working on
 **URL Shortener**
 - Frontend: https://github.com/paddyv1/UrlShortnerFrontend  
-- Backend: https://github.com/paddyv1/PokeUrlShortner-Backend  
+- Backend: https://github.com/paddyv1/PokeUrlShortner-Backend
+
+**Game Dev**
+- Roguelite: https://github.com/paddyv1/KaijuHunter-MonoGame
 
 <!--
 **paddyv1/paddyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
